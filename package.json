@@ -15,7 +15,13 @@
     "@capacitor/cli": "^7.4.3",
     "@capacitor/core": "^7.4.3",
     "@capacitor/ios": "^7.4.3",
-    "vue": "^3.5.18"
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "echarts": "^6.0.0",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
+    "vue": "^3.5.18",
+    "vue-echarts": "^8.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
